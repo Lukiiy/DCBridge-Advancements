@@ -1,0 +1,4 @@
+msg:
+  task: "(user) has made the advancement [(achievement)]"
+  goal: "(user) has reached the goal [(achievement)]"
+  challenge: "(user) has completed the challenge [(achievement)]"

@@ -1,0 +1,12 @@
+name: DCBAdvancement
+version: '1.0'
+main: me.lukiiy.DCBAchiev.DCBAdvancement
+api-version: '1.19'
+load: POSTWORLD
+authors: [ Lukiiy ]
+description: An advancement broadcast addon for DCBridge
+depend: [DiscordBridge]
+commands:
+  dcbadvancements:
+    description: Reloads the plugin
+    permission: dcbadvancements.reload
